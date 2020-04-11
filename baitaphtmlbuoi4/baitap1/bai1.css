@@ -1,0 +1,118 @@
+.khung{
+    width:950px;
+    height:430px;
+    position: relative;
+}
+.the img{
+    width:350px;
+    height:430px;
+}
+.the .layer1{
+    position: absolute;
+    top:0px;
+    left:0px;
+    z-index:1;
+}
+.the .layer2{
+    position: absolute;
+    left:0px;
+    z-index:2;
+    bottom: 0px;
+    width:330px;
+    background-color:rgba(204, 206, 205, 0.863);
+    
+    color:blue;
+    font-size: 25px;
+    padding: 10px;
+    font-weight: bolder;
+    font-style: unset;
+    text-decoration: none;
+    text-align: justify;
+    text-transform: initial;
+}
+.bantin{
+    width:590px;
+    height:140px;
+    float:right;
+    border-bottom: 1px solid #cecece;
+}
+.bantin img{
+    width: 180px;
+    height: 130px;
+    float:left;
+    margin-right: 10px;
+}
+.bantin a{
+    text-decoration: none;
+    color:rgb(241, 207, 10);
+    font-size: 20px;
+    font-weight: bolder;
+    padding-top: 35px;
+    padding-bottom: 5px;
+    
+}
+.bantin p{
+    text-decoration: none;
+    color:black;
+    font-size: 18px;
+    padding-top: 5px;
+    font-style: oblique;
+}
+
+.bantin2{
+    width:590px;
+    height:140px;
+    float:right;
+    border-bottom: 1px solid #cecece;
+    padding-top: 10px;
+}
+.bantin2 img{
+    width: 180px;
+    height: 130px;
+    float:left;
+    margin-right: 10px;
+}
+.bantin2 a{
+    text-decoration: none;
+    color:rgb(241, 207, 10);
+    font-size: 20px;
+    font-weight: bolder;
+    padding-top: 35px;
+    padding-bottom: 5px;
+}
+.bantin2 p{
+    text-decoration: none;
+    color:black;
+    font-size: 18px;
+    padding-bottom: 5px;
+    font-style: oblique;
+}
+
+.bantin3{
+    width:590px;
+    height:140px;
+    float:right;
+    padding-top: 10px;
+}
+.bantin3 img{
+    width: 180px;
+    height: 130px;
+    float:left;
+    margin-right: 10px;
+}
+.bantin3 a{
+    text-decoration: none;
+    color:rgb(241, 207, 10);
+    font-size: 20px;
+    font-weight: bolder;
+    padding-top: 35px;
+    padding-bottom: 5px;
+    
+}
+.bantin3 p{
+    text-decoration: none;
+    color:black;
+    font-size: 18px;
+    padding-top: 5px;
+    font-style: oblique;
+}
